@@ -1,8 +1,10 @@
 class Game {
   constructor() {}
-start() {form=newForm();
-  start() {
+  
+start() {
     // INCLUA A CLASSE DO JOGO
+    form = newForm();
+    form.display();
     player = new Player();
   }
 }
