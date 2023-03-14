@@ -1,7 +1,7 @@
 class Form {
   constructor() {
     // CRIE OS ELEMENTOS DA CLASSE
-    this.imput = createImput("").attribute("placeholder", "Digite seu nome";
+    this.imput = createImput("").attribute("placeholder", "Digite seu nome");
     this.playButton = createButton("Play");
     this.titleImg = createImg("./assets/title.png","ti´tulo do jogo");
     this.greeting = createElement("h2");
